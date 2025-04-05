@@ -58,7 +58,7 @@ sudo bash scripts/delete_users.sh
 - HR team should only access `/opt/hr_docs`
 - Permission is `770` → full access to group, no access to others
 
-- ## 📸 Screenshots
+## 📸 Screenshots
 
 ### 1️⃣ User Creation
 ![User Creation](screenshots/01_create_users.png)
