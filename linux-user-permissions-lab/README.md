@@ -58,6 +58,27 @@ sudo bash scripts/delete_users.sh
 - HR team should only access `/opt/hr_docs`
 - Permission is `770` → full access to group, no access to others
 
+- ## 📸 Screenshots
+
+### 1️⃣ User Creation
+![User Creation](screenshots/01_create_users.png)
+
+---
+
+### 2️⃣ Folder Permissions
+![Set Permissions](screenshots/02_set_permissions.png)
+
+---
+
+### 3️⃣ Group Verifications
+![Group Verification](screenshots/03_group_verifications.png)
+
+---
+
+### 4️⃣ User Deletion
+![Delete Users](screenshots/04_delete_users.png)
+
+
 ---
 
 ✅ This lab is a great way to demonstrate system admin fundamentals and can be extended with user password management, SSH key distribution, or sudo rules.
